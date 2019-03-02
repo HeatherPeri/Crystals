@@ -1,0 +1,43 @@
+/* body {
+    background-image: url("https://img.freepik.com/free-vector/watercolor-background-with-stars_23-2147659850.jpg?size=338&ext=jpg");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px 20px;
+    margin-inline-start: 250px;
+    margin-inline-end: 250px;
+}
+
+.h1 {
+    background-color: lavender;
+    text-align: center;
+
+}
+
+.h2 {
+    background-color: lavenderblush;
+    text-align: center;
+}
+
+.h3 {
+    background-color: peachpuff;
+    text-align: center;
+
+}
+
+.h4 {
+    background-color: skyblue;
+    text-align: center;
+} */
+
+.crystal {
+    border: 1px solid green;
+    height: 200px;
+    width: 200px;
+}
+
+.crystals{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
