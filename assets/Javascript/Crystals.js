@@ -47,7 +47,7 @@ for(var i = 0; i < 4; i++){
       ResetstartGame();
     }
 
-    else(first === randomresult){
+    else(first === randomresult) {
       win++;
 
       $("$win").html(win);
