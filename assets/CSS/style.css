@@ -5,11 +5,14 @@
 }
 
 crystal{
-    border: 1px solid green;
+   width: 200px;
     height: 200px;
 }
 
-/* body {
+img{
+    width: 50px; 
+}
+body {
     background-image: url("https://img.freepik.com/free-vector/watercolor-background-with-stars_23-2147659850.jpg?size=338&ext=jpg");
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -38,6 +41,5 @@ crystal{
 .h4 {
     background-color: skyblue;
     text-align: center;
-/* } */
-/* 
+
 
